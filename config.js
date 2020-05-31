@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = {
-  url: "https://lumen.netlify.com",
+  url: "https://tiengtrungmongcai.com",
   pathPrefix: "/",
   title: "Tiếng Trung Móng Cái",
   subtitle:
