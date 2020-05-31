@@ -10,10 +10,12 @@ description: "Mùng 1 tháng 6 là một trong những ngày được mong đợ
   lễ đặc biệt này nhé!!"
 category: Từ vựng
 featuredimage: /media/quoctethieunhi500x500.png
+socialImage: /media/quoctethieunhi500x500.png
 tags:
   - từ vựng
   - trẻ em
 ---
+
 ![](/media/quoctethieunhi500x500.png)
 
 Mùng 1 tháng 6 là một trong những ngày được mong đợi nhất của trẻ em Trung Quốc nói riêng và trẻ em toàn thể giới nói chung: (儿童节, értóng jié), hay còn gọi là Quốc tế thiếu nhi. Cùng Tiếng Trung Móng Cái tìm hiểu về ngày lễ đặc biệt này nhé!!
