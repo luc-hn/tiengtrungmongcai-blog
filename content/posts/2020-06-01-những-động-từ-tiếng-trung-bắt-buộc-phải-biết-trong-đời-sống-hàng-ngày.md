@@ -10,6 +10,8 @@ socialImage: /media/3880417.jpg
 tags:
   - Từ vựng
 ---
+![](/media/3880417.jpg)
+
 Cùng **Tiếng Trung Móng Cái** tìm hiểu những động từ hữu dụng trong cuộc sống hàng ngày nhé ;):
 
 1. 回家 huíjiā:Về nhà
