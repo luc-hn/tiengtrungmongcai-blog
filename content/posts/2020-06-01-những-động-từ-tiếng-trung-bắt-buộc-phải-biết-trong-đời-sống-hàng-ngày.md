@@ -6,11 +6,11 @@ draft: false
 date: 2020-06-01T13:02:24.154Z
 description: Những động từ tiếng Trung bắt buộc phải biết trong đời sống hàng ngày
 category: Từ vựng
-socialImage: /media/3880417.jpg
+socialImage: /media/dongtu500x500.png
 tags:
   - Từ vựng
 ---
-![](/media/3880417.jpg)
+![](/media/dongtu500x500.png)
 
 Cùng **Tiếng Trung Móng Cái** tìm hiểu những động từ hữu dụng trong cuộc sống hàng ngày nhé ;):
 
