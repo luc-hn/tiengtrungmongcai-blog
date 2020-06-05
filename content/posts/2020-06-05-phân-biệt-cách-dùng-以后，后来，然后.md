@@ -4,7 +4,7 @@ title: Phân biệt cách dùng 以后，后来，然后
 slug: phan-biet-cach-dung-yi-hou-hou-lai-ran-hou
 draft: false
 date: 2020-06-05T13:52:50.285Z
-description: >-
+description: >
   PHÂN BIỆT CÁCH DÙNG 以后，后来，然后
 
 
@@ -29,8 +29,6 @@ tags:
   - Từ vựng
   - Phân biệt cặp từ
 ---
-
-
 ![Phân biệt cách dùng 以后，后来，然后](/media/phanbietyihou800x800.png)
 
 PHÂN BIỆT CÁCH DÙNG 以后，后来，然后
@@ -79,3 +77,7 @@ Lưu về học dần nào các cậu\
   > > Lưu ý:\
   > > 然后 thường kết hợp với 首先.\
   > > 后来 thường kết hợp với 开始, và 以后 thường kết hợp với 以前。
+
+  **Tiếng Trung Móng Cái**
+
+  **Trung tâm gia sư tiếng Trung giao tiếp hàng đầu MC**
