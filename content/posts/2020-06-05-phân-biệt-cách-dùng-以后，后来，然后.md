@@ -37,7 +37,7 @@ Lưu về học dần nào các cậu\
 
 1. 以后 /yǐhòu: Sau đó, sau này\
 
-* Ý nói hiện tại hoặc sau một khoảng thời gian nào đó, có thể dùng sau mộttừ hoặc sau một tổ hợp từ.\
+* Ý nói hiện tại hoặc sau một khoảng thời gian nào đó, có thể dùng sau một từ hoặc sau một tổ hợp từ.\
   Ví dụ: 她打算回国以后继续学汉语\
   /Tā dǎsuàn huíguó yǐhòu jìxù xué hànyǔ\
 
